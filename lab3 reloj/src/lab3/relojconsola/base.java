@@ -14,15 +14,14 @@ import java.util.TimerTask;
  * @author luis carlos
  */
 public class base {
-
-   
+  
+//   
 //    public static void main(String[] args) {
 //Timer time=new Timer();
 //TimerTask tarea =new TimerTask() {
 //    @Override
 //    public void run() {
-//        System.out.println
-//        ("la tarea de timer es"+new Date());
+//        System.out.println(new Date());
 //    }
 //};
 //time.schedule(tarea, 0, 1000);
